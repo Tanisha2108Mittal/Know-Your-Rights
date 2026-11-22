@@ -1,0 +1,37 @@
+[
+  {
+    "act": "Payment of Wages Act 1936",
+    "section": "2(vi)",
+    "title": "Wages definition",
+    "category": "wages",
+    "text": "\"wages\" means all remuneration (whether by way of salary, allowances or otherwise) expressed in terms of money or capable of being so expressed which would, if the terms of employment, express or implied, were fulfilled, be payable to a person employed in respect of his employment or of work done in such employment, and includes— (a) any remuneration payable under any award or settlement between the parties or order of a court; (b) any remuneration to which the person employed is entitled in respect of overtime work or holidays or any leave period; (c) any additional remuneration payable under the terms of employment (whether called a bonus or by any other name); (d) any sum which by reason of the termination of employment of the person employed is payable under any law, contract or instrument which provides for the payment of such sum, whether with or without deductions, but does not provide for the time within which the payment is to be made; (e) any sum to which the person employed is entitled under any scheme framed under any law for the time being in force; but does not include— (1) any bonus (whether under a scheme of profit sharing or otherwise) which does not form part of the remuneration payable under the terms of employment or which is not payable under any award or settlement between the parties or order of a court; (2) the value of any house-accommodation, or of the supply of light, water, medical attendance or other amenity or of any service excluded from the computation of wages by a general or special order of the appropriate Government; (3) any contribution paid by the employer to any pension or provident fund, and the interest which may have accrued thereon; (4) any travelling allowance or the value of any travelling concession; (5) any sum paid to the employed person to defray special expenses entailed on him by the nature of his employment; or (6) any gratuity payable on the termination of employment in cases other than those specified in sub-clause (d)."
+  },
+  {
+    "act": "Payment of Wages Act 1936",
+    "section": "3",
+    "title": "Responsibility for payment of wages",
+    "category": "wages",
+    "text": "Every employer shall be responsible for the payment of all wages required to be paid under this Act to persons employed by him and in case of persons employed,— (a) in factories, if a person has been named as the manager of the factory under clause (f) of sub-section (1) of Section 7 of the Factories Act, 1948; (b) in industrial or other establishments, if there is a person responsible to the employer for the supervision and control of the industrial or other establishments; (c) upon railways (otherwise than in factories) if the employer is the railway administration and the railway administration has nominated a person in this behalf for the local area concerned; (d) in the case of contractor, a person designated by such contractor who is directly under his charge; and (e) in any other case, a person designated by the employer, the person so nominated or the person so designated, as the case may be, shall be responsible for such payment."
+  },
+  {
+    "act": "Payment of Wages Act 1936",
+    "section": "4",
+    "title": "Fixation of wage-periods",
+    "category": "wages",
+    "text": "(1) Every person responsible for the payment of wages under section 3 shall fix periods (in this Act referred to as wage-periods) in respect of which such wages shall be payable. (2) No wage-period shall exceed one month."
+  },
+  {
+    "act": "Payment of Wages Act 1936",
+    "section": "5",
+    "title": "Time of payment of wages",
+    "category": "wages",
+    "text": "(1) The wages of every person employed upon or in— (a) any railway, factory or industrial or other establishment upon or in which less than one thousand persons are employed, shall be paid before the expiry of the seventh day; (b) any other railway, factory or industrial or other establishment, shall be paid before the expiry of the tenth day, after the last day of the wage-period in respect of which the wages are payable. (2) Where the employment of any person is terminated by or on behalf of the employer, the wages earned by him shall be paid before the expiry of the second working day from the day on which his employment is terminated."
+  },
+  {
+    "act": "Payment of Wages Act 1936",
+    "section": "15",
+    "title": "Claims for deductions and delayed wages",
+    "category": "wages",
+    "text": "(1) The appropriate Government may, by notification in the Official Gazette, appoint a presiding officer of any Labour Court or Industrial Tribunal, constituted under the Industrial Disputes Act, 1947, or under any corresponding law relating to the investigation and settlement of industrial disputes in force in the State or any Commissioner for Workmen's Compensation or other officer with experience as a Judge of a Civil Court or as a stipendiary Magistrate to be the authority to hear and decide for any specified area all claims arising out of deductions from the wages, or delay in payment of the wages, of persons employed or paid in that area. (2) Where contrary to the provisions of this Act any deduction has been made from the wages of an employed person, or any payment of wages has been delayed, such person himself, or any legal practitioner or any official of a registered trade union authorised in writing to act on his behalf, or any Inspector under this Act, or any other person acting with the permission of the authority appointed under sub-section (1), may apply to such authority for a direction under sub-section (3). (3) When any application under sub-section (2) is entertained, the authority shall hear the applicant and the employer or other person responsible for the payment of wages under section 3, or give them an opportunity of being heard, and, after such further inquiry (if any) as may be necessary, may, without prejudice to any other penalty to which such employer or other person is liable under this Act, direct the refund to the employed person of the amount deducted, or the payment of the delayed wages, together with the payment of such compensation as the authority may think fit, not exceeding ten times the amount deducted in the former case and not exceeding ten rupees in the latter: Provided that no direction for the payment of compensation shall be made in the case of delayed wages if the authority is satisfied that the delay was due to— (a) a bona fide error or bona fide dispute as to the amount payable to the employed person; or (b) the occurrence of an emergency, or the existence of exceptional circumstances, such that the person responsible for the payment of the wages was unable, though exercising reasonable diligence, to make prompt payment; or (c) the failure of the employed person to apply for or accept payment."
+  }
+]
